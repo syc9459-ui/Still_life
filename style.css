@@ -1,0 +1,82 @@
+body {
+  background-color: #e0e0e0;
+
+}
+
+
+#coffee {
+  width: 60px;
+  height: 270px;
+  background-color: #BFA778;
+  position: absolute;
+  left: 60px;
+  top: 580px;
+}
+
+#coffee-cap {
+  width: 60px;
+  height: 30px;
+  background-color: #3f6f55;
+}
+
+#coffee-label {
+  width: 60px;
+  height: 60px;
+  background-color: #d8efe1;
+  position: absolute;
+  bottom: 40px;
+}
+
+
+#notebook {
+  width: 180px;
+  height: 280px;
+  background-color: #2f6f4e;
+  position: absolute;
+  left: 190px;
+  top: 570px;
+}
+
+#spiral {
+  width: 14px;
+  height: 280px;
+  background-color: #b0b0b0;
+  position: absolute;
+  left: -14px;
+  top: 0;
+}
+
+
+#notebook-shadow {
+  width: 180px;
+  height: 20px;
+  background-color: #b5b5b5;
+  position: absolute;
+  left: 0px;
+  top: 280px;
+}
+
+
+#pencil {
+  width: 260px;
+  height: 14px;
+  background-color: hotpink;
+  position: absolute;
+  left: 220px;
+  top: 885px;
+}
+
+#eraser {
+  width: 22px;
+  height: 14px;
+  background-color: #7bc96f;
+}
+
+#tip {
+  width: 16px;
+  height: 14px;
+  background-color: brown;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
