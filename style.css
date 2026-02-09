@@ -16,7 +16,7 @@ body {
 #coffee-cap {
   width: 60px;
   height: 30px;
-  background-color: #3f6f55;
+  background-color: red;
 }
 
 #coffee-label {
@@ -75,7 +75,7 @@ body {
 #tip {
   width: 16px;
   height: 14px;
-  background-color: brown;
+  background-color: blue;
   position: absolute;
   right: 0;
   top: 0;
