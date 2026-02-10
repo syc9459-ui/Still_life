@@ -22,7 +22,7 @@ body {
 #coffee-label {
   width: 60px;
   height: 60px;
-  background-color: #9f5192;
+  background-color: #b89cb3;
   position: absolute;
   bottom: 40px;
 }
@@ -73,7 +73,7 @@ body {
 }
 
 #tip {
-  width: 16px;
+  width: 11px;
   height: 14px;
   background-color: blue;
   position: absolute;
